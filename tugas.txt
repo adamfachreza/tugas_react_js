@@ -1,0 +1,10 @@
+Tugas 1:
+
+Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas_1_react_js 
+
+Didalam App.js Buatlah :  
+2 function component (Header dan Footer) dan
+1 class component (App)
+Pada folder Page ada 4 buah file, pada masing-masing file buatlah sebuah class component dengan nama sesuai nama file tersebut ( Menu Utama, Menu Kontak, Menu Product, Menu Tentang Kami ) 
+
+
